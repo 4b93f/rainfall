@@ -1,0 +1,4 @@
+system 0xb7e6b060
+sh 0xbffff913
+exit 0x0804853e
+
